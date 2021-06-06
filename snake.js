@@ -21,12 +21,12 @@ let right = new Audio();
 let left = new Audio();
 let down = new Audio();
 
-dead.src = "audio/dead.mp3";
-eat.src = "audio/eat.mp3";
-up.src = "audio/up.mp3";
-right.src = "audio/right.mp3";
-left.src = "audio/left.mp3";
-down.src = "audio/down.mp3";
+dead.src = "audio/audio_dead.mp3";
+eat.src = "audio/audio_eat.mp3";
+up.src = "audio/audio_up.mp3";
+right.src = "audio/audio_right.mp3";
+left.src = "audio/audio_left.mp3";
+down.src = "audio/audio_down.mp3";
 
 // create the snake
 
